@@ -2,7 +2,7 @@
 
 This book summarizes the data in tidy.txt.
 
-Labels: 
+####Labels 
 
 Subject - The Identity of a test subject
 (e.g. 1)
@@ -15,8 +15,8 @@ SITTING (value 4): subject was sitting during the test
 STANDING (value 5): subject was standing during the test
 LAYING (value 6): subject was laying down during the test
 
+####Measurements
 ```
-Measurements:
 tBodyAccMeanX,
 tBodyAccMeanY,
 tBodyAccMeanZ,
